@@ -4,6 +4,7 @@
 target/
 *.iml
 .idea/*
+*.txt
 .idea
 *.versionsBackup
 *.log*
