@@ -12,5 +12,6 @@ public class SparseArrayTest {
         System.out.println("aaa");
         System.out.println("a");
         System.out.println("b");
+        System.out.println("e");
     }
 }
