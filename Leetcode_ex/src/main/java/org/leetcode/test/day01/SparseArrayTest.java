@@ -42,5 +42,6 @@ public class SparseArrayTest {
         System.out.println("aa");
         System.out.println("cc");
         System.out.println("dd");
+        System.out.println("bb");
     }
 }
