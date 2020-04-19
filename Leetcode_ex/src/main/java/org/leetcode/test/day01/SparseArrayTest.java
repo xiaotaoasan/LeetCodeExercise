@@ -37,5 +37,7 @@ public class SparseArrayTest {
         System.out.println("n");
         System.out.println("q");
         System.out.println("r");
+        System.out.println("s");
+        System.out.println("t");
     }
 }
